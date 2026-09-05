@@ -1,0 +1,19 @@
+Frequently Asked Questions
+
+Q: How do I reset my password?
+A: Use the "Forgot Password" option on the login page.
+
+Q: How can I contact support?
+A: Submit a support ticket through the customer portal.
+
+Q: How long does a refund take?
+A: Approved refunds are processed within 7 business days.
+
+Q: Can I upgrade my subscription?
+A: Yes, subscriptions can be upgraded at any time.
+
+Q: What file types are supported for uploads?
+A: PDF, DOCX, XLSX, and CSV files.
+
+Q: How do I cancel my subscription?
+A: Submit a cancellation request through billing support.

@@ -1,0 +1,31 @@
+ABC Technologies Pricing Guide
+
+Basic Plan
+Price: $20 per month
+
+Features:
+
+* Up to 5 users
+* Email support
+* Basic analytics
+
+Professional Plan
+Price: $50 per month
+
+Features:
+
+* Up to 25 users
+* Priority email support
+* Advanced analytics
+* Workflow automation
+
+Enterprise Plan
+Price: $120 per month
+
+Features:
+
+* Unlimited users
+* Dedicated account manager
+* Phone support
+* Advanced security controls
+* Custom integrations
